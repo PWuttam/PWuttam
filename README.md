@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://grass-graph.moshimo.works/images/PWuttam.png">
-
 ![PWuttam's github stats](https://github-readme-stats.vercel.app/api?username=PWuttam)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PWuttam)](https://github.com/PWuttam/github-readme-stats)
