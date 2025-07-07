@@ -1,25 +1,25 @@
-### Hi there 👋
+# 👋 こんにちは、ウッタムです！
 
-Hi, my name is Uttam and I'm an engineer mainly working on PHP. 
-I'm an engineer and I want to make an app that will make people say "wow".
+PHPやJavaScriptを使ったWeb開発を勉強しながら、便利なアプリを作っています。
 
+## 💻 使用技術
+- PHP / JavaScript / HTML / CSS
+- Git / GitHub
+- 今後：Python / React / Vite に挑戦予定！
 
+## 📂 最近のプロジェクト
+- 自作掲示板（PHP）
+- シンプル電卓アプリ（PHP）
+- JavaScriptでのすごろくゲーム（進行中）
 
-<!--
-**PWuttam/PWuttam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ これからやりたいこと
+- ポートフォリオWebサイトの公開
+- 自動化ツールを作ってみる
+- 技術記事や学習記録の発信
 
-Here are some ideas to get you started:
+## 📫 連絡先
+（今後SNSやメールリンクを追加予定）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-![PWuttam's github stats](https://github-readme-stats.vercel.app/api?username=PWuttam)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PWuttam)
+よろしくお願いします！
